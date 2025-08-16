@@ -1,6 +1,6 @@
 # GPS Spoofing ve Konum Yönlendirme Araştırması
 
-## Özet (Abstract)
+## Özet
 Bu çalışma, sivil GNSS sinyalleri üzerinde gerçekleştirilen spoofing tehditlerini kapsamlı olarak incelemekte, zafiyetlerin ortaya çıkış mekanizmalarını, potansiyel istismar senaryolarını, laboratuvar ortamında analiz ve tespit yöntemlerini detaylı şekilde ele almaktadır. Deneyler yalnızca kayıtlı datasetler ve simülatörler kullanılarak yürütülmüştür.
 
 ## 1. Giriş
