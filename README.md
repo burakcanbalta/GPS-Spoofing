@@ -1,8 +1,4 @@
 # GPS Spoofing ve Konum Yönlendirme Araştırması
-
-## Özet
-Bu çalışma, sivil GNSS sinyalleri üzerinde gerçekleştirilen spoofing tehditlerini kapsamlı olarak incelemekte, zafiyetlerin ortaya çıkış mekanizmalarını, potansiyel istismar senaryolarını, laboratuvar ortamında analiz ve tespit yöntemlerini detaylı şekilde ele almaktadır. Deneyler yalnızca kayıtlı datasetler ve simülatörler kullanılarak yürütülmüştür.
-
 ## 1. Giriş
 GNSS sistemleri (GPS, Galileo, GLONASS, BeiDou) modern ulaşım, finans, telekom ve savunma alanlarında kritik öneme sahiptir. Sivil GNSS alıcıları düşük sinyal gücü ve mesaj doğrulaması olmayan yapıları nedeniyle spoofing saldırılarına açıktır. Bu çalışmada amaç, spoofing’in teorik temellerini, risklerini ve güvenli test yöntemlerini detaylı bir şekilde ortaya koymaktır.
 
@@ -45,7 +41,7 @@ GPS spoofing, bir alıcıya sahte konum, hız veya zaman verisi göndererek yanl
 4. **Tespit ve Analiz:** Anomali tespiti: Doppler shift, carrier-to-noise ratio, PRN tutarlılığı. Detection algoritmaları: CUSUM, ML tabanlı sınıflandırma.
 
 ### 3.4 Kullanım Alanları
-- **Red Team / Pen Test:** Drone veya otonom araç güvenlik testi.
+- **Red Team / PenTest:** Drone veya otonom araç güvenlik testi.
 - **Savunma ARGE:** GNSS spoofing senaryoları simülasyonu.
 - **Akademik Çalışmalar:** Spoofing tespit algoritmaları geliştirme.
 - **Kritik Altyapı Testi:** Finans, telekom veya denizcilik senaryolarında risk analizi.
