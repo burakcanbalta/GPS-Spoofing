@@ -4,7 +4,6 @@ GNSS sistemleri (GPS, Galileo, GLONASS, BeiDou) modern ulaşım, finans, telekom
 
 ## 2. GPS Spoofing Nedir ve Ne İşe Yarar?
 GPS spoofing, bir alıcıya sahte konum, hız veya zaman verisi göndererek yanlış PVT (position, velocity, time) hesaplatma saldırısıdır. Amaçları şunlardır:
-- ARGE ve akademik araştırma senaryoları
 - Savunma/elektronik harp testleri
 - Drone ve otonom sistemlerin güvenlik testleri
 - Zaman ve konum bağımlı kritik altyapıların güvenlik analizi
