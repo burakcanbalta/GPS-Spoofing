@@ -1,3 +1,6 @@
+
+![Ekran görüntüsü 2025-08-16 150957](https://github.com/user-attachments/assets/f9838b1e-6f39-4cbd-aa77-276f27446a66)
+
 # GPS Spoofing ve Konum Yönlendirme Araştırması
 ## 1. Giriş
 GNSS sistemleri (GPS, Galileo, GLONASS, BeiDou) modern ulaşım, finans, telekom ve savunma alanlarında kritik öneme sahiptir. Sivil GNSS alıcıları düşük sinyal gücü ve mesaj doğrulaması olmayan yapıları nedeniyle spoofing saldırılarına açıktır. Bu çalışmada amaç, spoofing’in teorik temellerini, risklerini ve güvenli test yöntemlerini detaylı bir şekilde ortaya koymaktır.
